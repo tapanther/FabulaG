@@ -1,5 +1,5 @@
 
-site_name: Fabula
+site_name: Fabula@Google
 theme:
   name: material
   custom_dir: 'yaml-wiki/theme'
@@ -9,9 +9,9 @@ theme:
   favicon: 'img/favicon.ico'
   icon:
     logo: 'material/bank'
-repo_name: 'tapanther/Fabula'
-repo_url: 'https://github.com/tapanther/Fabula'
-site_url: 'https://tapanther.github.io/Fabula/'
+repo_name: 'tapanther/FabulaG'
+repo_url: 'https://github.com/tapanther/FabulaG'
+site_url: 'https://tapanther.github.io/FabulaG/'
 
 
 
