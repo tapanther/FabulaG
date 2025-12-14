@@ -1,0 +1,26 @@
+---
+node : NPC/The Commonwealth
+template : Character.md
+title : The Hoarder
+GeneralInfo :
+#  Statistics :
+#    Race : TEXT
+#    Age : NUMBER
+  Traits :
+    - Unctuous
+    - Trafficker
+    - Amoral
+  Description : >-
+    An amoral collector, The Hoarder boasted an impressive collection of historical treasures, many acquired through
+    illicit means. Unbeknownst to his peers, the collection included sentient, living beings, which eventually
+    proved to be his undoing. The Hoarder was exiled and bears the Slaver's Mark, but continues to profess his 
+    innocence to anyone who will listen.
+Occupation :
+  Role : Exile
+#  Note : TEXT
+  Location : Lampsonnos
+#Description : >-
+#  TEXT
+#NotableEvents :
+#  TEXT : >-
+#    TEXT

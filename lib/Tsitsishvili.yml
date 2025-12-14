@@ -24,9 +24,9 @@ Description : |-
   
   He has a notable disdain for his twin brother Tzatziki, whom he sees as a useless layabout more interested in
   wine and parties than the furtherance of the family's prestige and power.
-NotableEvents :
-  Implicated in Poisoning : >-
-    One of the brigands attacking Mihaela Nicolae, the herbalist and black market tinctures trader, let slip
-    that "Goga" is not paying them enough to risk their lives. The bandit leader further implicated "Goga" may
-    have authority or control over the City Guard. A note of extremely fine quality was found with a map to
-    Mihaela, with instruction to dispose of her after burning "the books".
+#NotableEvents :
+#  Implicated in Poisoning : >-
+#    One of the brigands attacking Mihaela Nicolae, the herbalist and black market tinctures trader, let slip
+#    that "Goga" is not paying them enough to risk their lives. The bandit leader further implicated "Goga" may
+#    have authority or control over the City Guard. A note of extremely fine quality was found with a map to
+#    Mihaela, with instruction to dispose of her after burning "the books".

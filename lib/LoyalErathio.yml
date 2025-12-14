@@ -1,0 +1,33 @@
+---
+node : NPC/The Commonwealth
+template : Character.md
+title : Loyal Erathio
+altLinks:
+  - Erathio
+GeneralInfo :
+#  Statistics :
+#    Race : TEXT
+#    Age : NUMBER
+  Traits :
+    - Charismatic
+    - Rogue
+    - Confidence Man
+  Description : >-
+    A former member of Batty's crew, Loyal Erathio is a charming, charismatic fellow accustomed to talking
+    their way out of whatever trouble their confidence schemes and heists landed them in.
+    
+    Loyal and Bathsheba proved to be each others' undoing, turning on each other
+    after being arrested during a disastrous scheme in an ironic attempt to avoid culpability. Both were exiled
+    for the scheme.
+    
+    Life as an exile has been difficult for Loyal; they are someone who fundamentally needs to be admired socially,
+    which is a practical impossibility given the conman's Bearer Mark.
+Occupation :
+  Role : Exile
+#  Note : TEXT
+  Location : Lampsonnos
+#Description : >-
+#  TEXT
+#NotableEvents :
+#  TEXT : >-
+#    TEXT

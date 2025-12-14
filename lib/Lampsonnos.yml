@@ -1,0 +1,38 @@
+---
+node: Settlements/The Commonwealth
+template: Location.md
+title: Lampsonnos
+GeneralInfo:
+  Statistics:
+    Type: City
+    Region: Lanaroth
+    Population: 32500
+  Description: |-
+    Originally a spiritual hub, Lampsonnos is renowned for the number and diversity of historical temples,
+    particularly those of the Adherents of the Sacred Flame and the Ephonian Mysteries, though the latter
+    are primarily of historical and archeological interest as they lay in ruins. The latter has attracted
+    all manner of fortune-seekers, hoping to find hidden treasures from Aroth's prime. This has led to a
+    closure of the ruins by the local Assembly, though this has not deterred the more criminally minded.
+    
+    The city Assembly is empowered to conduct the Trials of Absolution for its administrative district,
+    owing both to the historical significance of the city as much as the suitability of the city's 
+    infrastructure.
+Geography:
+  Description: >-
+    The city is located along an ecotone, taking advantage of the abundant timber and open grassland.
+#  Features:
+#    NAME : >-
+#      TEXT
+#  Settlements:
+#    NAME : >-
+#      TEXT
+History:
+  #  Description : >-
+  #    TEXT
+  Timeline:
+    - Name: The Glaros
+      Date: 2599Y
+      Description: >-
+        Travelers in the forest roads surrounding the city have reported being attacked by a Glaros, a long-nosed 
+        flighted creature infamous for swooping down without warning. The local Assembly has issued a travel advisory, 
+        encouraging travelers to group together for safety.

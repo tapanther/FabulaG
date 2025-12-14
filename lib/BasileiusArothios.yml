@@ -1,0 +1,30 @@
+---
+node : NPC/Basileia of Aroth
+template : Character.md
+title : Basileius Arothios
+GeneralInfo :
+#  Statistics :
+#    Race : TEXT
+#    Age : NUMBER
+  Traits :
+    - Conspiracy Theorist
+    - Paranoid
+    - Chaotic
+  Description : |-
+    A mildly deranged individual obsessed with cleansing society of what he perceives as corrupt
+    and nefarious individuals, preferably through public outrage, though not adverse to resorting
+    to inciting mob justice.
+    
+    Though initially from Aroth, Basileius travelled to the Commonwealth after hearing of the construct Vigilius
+    wandering through the country, convinced that the stone defender was an existential threat to society. His
+    paranoid delusions caused a small but embarrasing diplomatic incident between an Arothian Augur and one of the
+    Justices of the Tribunal, leading to his exile and Bearer Mark of The Deranged.
+Occupation :
+  Role : Exile
+#  Note : TEXT
+  Location : Lampsonnos
+#Description : >-
+#  TEXT
+#NotableEvents :
+#  TEXT : >-
+#    TEXT

@@ -2,8 +2,9 @@
 node : General
 template : Generic.md
 title : Bearer Marks
-#altLinks :
-#  - LINK
+altLinks :
+  - Bearer Mark
+  - Witness Mark
 GeneralInfo :
   Description: >-
     Magical symbols used to mark an exile or a convict. These marks denote the bearer has
