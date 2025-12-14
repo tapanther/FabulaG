@@ -2,7 +2,7 @@
 node : NPC/Basileia of Aroth
 template : Character.md
 title : Gratian Constantinus
-Image: Gratian.jpg
+#Image: Gratian.jpg
 altLinks:
   - Gratian
 GeneralInfo :
